@@ -26,7 +26,7 @@
 ### Sales Predict - Rossmann Store
 *  **Business Problem**: The CEO of a drugstore chain wants to make some renovations on some stores. But he wants to know first the budget to make these investments.
 *  **Solution**: Develop Machine Learning model to predict how much the stores will sell in the next six weeks. The model will be deployed in production and will be integrated with an API to be resquested by Telegram. So the CEO can request the prediction on his smartphone.
-*  **Conclusion**: SOON
+*  **Conclusion**: The model generates a dataframe with the prediction of each store and the respectives worst and best scenarios. The CFO now can know the budget available to renovate the stores, with 90% accuracy.
 *  **Git Repository**: https://github.com/heitorfe/rossman-sales-predict
 
 
