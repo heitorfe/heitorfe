@@ -39,15 +39,15 @@
 
 
 ### Fidelity Program - Ecommerce Clustering
-*  **Business Problem**: SOON
-*  **Solution**: SOON
-*  **Conclusion**: SOON
+*  **Business Problem**: Marketing team wants to run a clustering program, but they know nothing about data science. The most valuable customers will be called Insiders.
+*  **Solution**: Building a Machine Learning model to do clustering and creating data visualization using Metabase to report clusters metrics.
+*  **Conclusion**: Insiders are few but great customers. They have a good participation of the company revenue. Now, marketing can make custom actions to each cluster and work on their retention. 12 customers  corresponding to 14% of the business revenue.
 *  **Git Repository**: https://github.com/heitorfe/insiders_clustering
 
 ### Client Churn Prediction - TopBank Company
-*  **Business Problem**: Marketing team wants to run a clustering program, but they know nothing about data science. The most valuable customers will be called Insiders.
-*  **Solution**: Building a Machine Learning model to do clustering and creating data visualization using Metabase to report clusters metrics.
-*  **Conclusion**: Insiders are few but great customers. They have a good participation of the company revenue. Now, marketing can make custom actions to each cluster and work on their retention.
+*  **Business Problem**: 
+*  **Solution**: SOON
+*  **Conclusion**: SOON
 *  **Git Repository**: https://github.com/heitorfe/client_churn_prediction
 
 ## Data Science Portifolio
