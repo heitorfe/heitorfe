@@ -32,9 +32,9 @@
 
 
 ### Propensity Score Rank - Health Insurance Cross Sell
-*  **Business Problem**: SOON
-*  **Solution**: SOON
-*  **Conclusion**: SOON
+*  **Business Problem**: The business team wants to get the highest precision possible to get new clients with the investment, using cross-sell strategy.
+*  **Solution**: Using Machine Learning model get propensity score of each client (Learn to rank). The user has an Google Sheets with API to sort new contact list based on their propensity to buy.
+*  **Conclusion**: Calling 20.000 of the test base, the company would reach 80% of the interested. The costs to reach those 80% of interested would be decreased 67% relative to random call.
 *  **Git Repository**: https://github.com/heitorfe/health_insurance_cross_sale
 
 
