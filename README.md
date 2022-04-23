@@ -44,11 +44,11 @@
 *  **Conclusion**: Insiders are few but great customers. They have a good participation of the company revenue. Now, marketing can make custom actions to each cluster and work on their retention. 12 customers  corresponding to 14% of the business revenue.
 *  **Git Repository**: https://github.com/heitorfe/insiders_clustering
 
-### Client Churn Prediction - TopBank Company
-*  **Business Problem**: 
-*  **Solution**: SOON
-*  **Conclusion**: SOON
-*  **Git Repository**: https://github.com/heitorfe/client_churn_prediction
+### Insights King County Houses - Data Analysis
+*  **Business Problem**: Increase profit through data analysis. With the database we can find out what most impacts the price of real estate and buy cheap, increase value and sell for a higher price. 
+*  **Solution**: Building a dashboard in Power BI, creating a database with the recommended properties to buy and finding insights from validating hypotheses.
+*  **Conclusion**: We can expect conservatively a 20% increase of the profit by choosing the best properties based on the location, features and time.
+*  **Git Repository**: https://github.com/heitorfe/kc-house-insights
 
 ## Data Science Portifolio
  <a href="https://heitorfe.github.io/portifolio-projetos/">
