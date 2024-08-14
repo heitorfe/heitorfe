@@ -1,7 +1,7 @@
 ## Hi, I'm Heitor
-* 🖥️ I'm a computer engineering student
-* 📊 I'm currently studying Data Science
-* 💼 I was part of a Junior Enterpise for 2 years 
+* 📊 I'm graduated in Data Science
+* 💼 I worked as Data Scientist for 6 months in a startup
+* 💼 I am currently working as a Data Engineer II at Sapiensia
 * 📍 I live in Brazil - RJ
 
 ## 📫 How to reach me 
@@ -14,12 +14,12 @@
       </a>
       
 ## Skills
-* Jupyter Notebook
-* Python for Data Analysis
+* Azure
+* Python for Data Science and Data Engineering
+* Data visualization in Power BI,  Metabase and Streamlit
+* Creating data pipelines in the cloud
 * Machine Learning (Regression, Classification and Clustering)
-* Data visualization in Power BI and Metabase
-* Deployment in Heroku
-* Applications with Flask
+
 
 ## Data Science Projects
 
@@ -49,6 +49,9 @@
 *  **Solution**: Building a dashboard in Power BI, creating a database with the recommended properties to buy and finding insights from validating hypotheses.
 *  **Conclusion**: We can expect conservatively a 20% increase of the profit by choosing the best properties based on the location, features and time.
 *  **Git Repository**: https://github.com/heitorfe/kc-house-insights
+
+## Data Engineering Projects
+* Coming soon
 
 ## Data Science Portifolio
  <a href="https://heitorfe.github.io/portifolio-projetos/">
