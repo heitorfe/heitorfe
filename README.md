@@ -28,12 +28,13 @@
 *  **Conclusion**: Medallion architecture with bronze, silver and gold layer. This Lakehouse now can be used by data scientists for reports and predictions.
 * **Git Repository**: https://github.com/heitorfe/olist-pipeline
 
-### Webscraping (soon)
-
 ### Surf data pipeline
 * It's a small project that copies weather data for surf into a S3 bucket. With that data I could build a Streamlit dashboard to analyse my favorite beaches if the weather is fine for surf.
 * **Git Repository**: https://github.com/heitorfe/surf-data-ingestion
 
+### Webscraping (soon)
+* In progress
+* **Git Repository**: https://github.com/heitorfe/webscraping-languageguide
 
 ## Data Science Projects
 
