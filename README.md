@@ -20,6 +20,20 @@
 * Creating data pipelines in the cloud
 * Machine Learning (Regression, Classification and Clustering)
 
+## Data Engineering Projects
+
+### Olist Data Lakehouse
+*  **Business Problem**: The CEO of a e-commerce chain wants to make some a Data Lakehouse with monthly and daily reports in the gold layer.
+*  **Solution**: Development of data lakehouse using Databricks and Unity Catalog. Pipeline is orchestrated to run daily and use incremental ingestion with CDC and CDF.
+*  **Conclusion**: Medallion architecture with bronze, silver and gold layer. This Lakehouse now can be used by data scientists for reports and predictions.
+* **Git Repository**: https://github.com/heitorfe/olist-pipeline
+
+### Webscraping (soon)
+
+### Surf data pipeline
+* It's a small project that copies weather data for surf into a S3 bucket. With that data I could build a Streamlit dashboard to analyse my favorite beaches if the weather is fine for surf.
+* **Git Repository**: https://github.com/heitorfe/surf-data-ingestion
+
 
 ## Data Science Projects
 
@@ -50,8 +64,7 @@
 *  **Conclusion**: We can expect conservatively a 20% increase of the profit by choosing the best properties based on the location, features and time.
 *  **Git Repository**: https://github.com/heitorfe/kc-house-insights
 
-## Data Engineering Projects
-* Coming soon
+
 
 ## Data Science Portifolio
  <a href="https://heitorfe.github.io/portifolio-projetos/">
