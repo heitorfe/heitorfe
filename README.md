@@ -57,7 +57,7 @@
 
 ## 🚀 Data Engineering Projects
 
-### 🔹 [Olist Data Lakehouse v2] (https://github.com/heitorfe/olist-lakehouse-2.0)
+### 🔹 [Olist Data Lakehouse v2](https://github.com/heitorfe/olist-lakehouse-2.0)
 Simulated ecommerce Lakehouse with full capabillities from Databricks Lakeflow Platform.
 
 ### 🔹 [Brazilian Congress Pipeline](https://github.com/heitorfe/pipeline-deputados)
