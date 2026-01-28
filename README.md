@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Heitor
 
 - 📊 Graduated in **Data Science** at Uninter  
-- 💼 Currently working as **Data Engineer II** at [Sapiensia](https://sapiensia.com), focusing on scalable pipelines, LLMs and cloud infrastructure  
-- 🔧 Past experience as **Data Scientist Intern** at 027capital, building churn models and automating data pipelines  
+- 💼 Currently working as **Data Engineer II** at [NTT Data], focusing on scalable pipelines with Spark in Databricks Platform.
+- 🔧 Past experience as **Data Scientist Intern** at 027capital, building churn models and automating data pipelines and Sapiensia as **Data Engineer II** building data pipelines and improving decision making. 
 - 🗺️ Based in Brazil - RJ / SP  
 - 🏆 Semifinalist (Top 10) - **Stone Data Challenge 2022**
 
@@ -18,6 +18,7 @@
 ## 🧠 Skills
 
 ### 👷‍♂️ Data Engineering
+- Databricks
 - Azure: Synapse, ADF, ADLS, Azure Functions, Blob, Logic Apps
 - Orchestration: Apache Airflow, Synapse Pipelines, Databricks Workflows
 - IaC & DevOps: Bicep, Azure DevOps, GitHub Actions
@@ -42,15 +43,22 @@
 ---
 
 ## 🧪 Certifications
-
+- Databricks Spark Developer
+- Databricks Data Engineer Associate
+- Databricks Data Engineer Professional
 - DP-203: Azure Data Engineer Associate  
 - DP-900: Azure Data Fundamentals  
 - AZ-900: Azure Fundamentals  
 - Apache Airflow 3 Fundamentals (Astronomer)
+- Apache Airflow DAG Authoring (Astronomer)
+
 
 ---
 
 ## 🚀 Data Engineering Projects
+
+### 🔹 [Olist Data Lakehouse v2] (https://github.com/heitorfe/olist-lakehouse-2.0)
+Simulated ecommerce Lakehouse with full capabillities from Databricks Lakeflow Platform.
 
 ### 🔹 [Brazilian Congress Pipeline](https://github.com/heitorfe/pipeline-deputados)
 Automated pipeline for public data on all federal deputies using Snowflake + dbt + Airflow. Implements CDC and SCD Type 2.
